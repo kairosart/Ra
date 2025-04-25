@@ -157,3 +157,12 @@ curl http://fire.windcorp.thm | egrep -i -f users.txt
 
 You can see there's an image called `lilyleAndSparky.jpg`, so, you can reset the password because you know her pet's name.
 
+### Changing password
+
+Change the password with `lilyle:Sparky` credentials.
+
+![[Enumeration-20250423104758006.webp]]
+
+
+**Next step:** [[SMB enumeration and First Flag]]
+
