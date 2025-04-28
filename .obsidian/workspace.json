@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Enumeration.md",
+                "file": "SMB enumeration and First Flag.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Enumeration"
+              "title": "SMB enumeration and First Flag"
             }
           },
           {
@@ -59,13 +59,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMB enumeration and First Flag.md",
+                "file": "Install OpenJDK 8 on Kali Linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SMB enumeration and First Flag"
+              "title": "Install OpenJDK 8 on Kali Linux"
             }
           },
           {
@@ -84,18 +84,18 @@
             }
           },
           {
-            "id": "6aa5b0834d0148f8",
+            "id": "2015ff2ee0f1a493",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker.md",
+                "file": "Exploitation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "Exploitation"
             }
           }
         ],
@@ -237,12 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Exploitation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Exploitation"
             }
           },
           {
@@ -286,22 +287,23 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "dff4c984d79ec35a",
+  "active": "2015ff2ee0f1a493",
   "lastOpenFiles": [
-    "Docker.md",
     "Spark Messenger.md",
+    "Exploitation.md",
+    "SMB enumeration and First Flag.md",
+    "Enumeration.md",
+    "Install OpenJDK 8 on Kali Linux.md",
+    "images/Spark Messenger-20250428204457416.webp",
     "images/Docker-20250425122426535.webp",
     "images/Docker-20250425114702874.webp",
     "images/Spark Messenger-20250424121329878.webp",
-    "SMB enumeration and First Flag.md",
-    "Enumeration.md",
     "images/Enumeration-20250423104758006.webp",
     "images/Enumeration-20250424113042729.webp",
     "images/Enumeration-20250424110800702.webp",
     "images/Enumeration-20250422200248215.webp",
     "images/Enumeration-20250422211034443.webp",
     "images/Enumeration-20250422204313947.webp",
-    "images/Enumeration-20250422204258671.webp",
     "Index.md",
     "Welcome.md",
     "images",
