@@ -104,13 +104,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EXPLOITATION/Getting a shell and flag 2.md",
+                "file": "EXPLOITATION/Enumeration.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Getting a shell and flag 2"
+              "title": "Enumeration"
             }
           }
         ],
@@ -163,7 +163,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Getting a shell and flag 2.md",
+                "file": "EXPLOITATION/Enumeration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Getting a shell and flag 2"
+              "title": "Outline of Enumeration"
             }
           },
           {
@@ -304,10 +304,18 @@
   },
   "active": "e283a068f3cf8c28",
   "lastOpenFiles": [
+    "images/Enumeration-20250501102940688.webp",
+    "EXPLOITATION/Enumeration.md",
+    "EXPLOITATION/Getting a shell and flag 2.md",
+    "images/Enumeration-20250501111545260.webp",
+    "images/Enumeration-20250501111220432.webp",
+    "images/Enumeration-20250501110149062.webp",
+    "images/Enumeration-20250501104418383.webp",
+    "images/Enumeration-20250501103845862.webp",
+    "images/Enumeration-20250501103711570.webp",
     "EXPLOITATION/Cracking the hash.md",
     "ENUMERATION",
     "EXPLOITATION/Exploitation.md",
-    "EXPLOITATION/Getting a shell and flag 2.md",
     "ENUMERATION/SMB enumeration and First Flag.md",
     "EXPLOITATION",
     "images/Getting a shell-20250430120000134.webp",
@@ -316,13 +324,6 @@
     "ENUMERATION/Spark Messenger.md",
     "ENUMERATION/Enumeration.md",
     "ENUMERATION/Install OpenJDK 8 on Kali Linux.md",
-    "images/Cracking the hash-20250429122403411.webp",
-    "images/Spark Messenger-20250429111142019.webp",
-    "images/Spark Messenger-20250429121035765.webp",
-    "images/Spark Messenger-20250429120805277.webp",
-    "images/Spark Messenger-20250429115752719.webp",
-    "images/Spark Messenger-20250429113402847.webp",
-    "images/Spark Messenger-20250429113141404.webp",
     "Index.md",
     "Welcome.md",
     "images",
