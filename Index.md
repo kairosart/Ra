@@ -15,3 +15,14 @@ Happy Hacking! 
 >[!Note]
 Remember to connect to the VPN.
 
+
+Steps:
+
+1. [[ENUMERATION/Enumeration]]
+2. [[SMB enumeration and Flag 1]]
+3. [[Spark Messenger]]
+4. [[Cracking the hash]]
+5. [[Getting a shell and flag 2]]
+6. [[EXPLOITATION/Enumeration]]
+7. [[Admin shell and Third Flag]]
+

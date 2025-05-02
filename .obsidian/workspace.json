@@ -39,52 +39,22 @@
             }
           },
           {
-            "id": "e06da8ec51e6adcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enumeration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Enumeration"
-            }
-          },
-          {
-            "id": "9a9e35893b9a337c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Install OpenJDK 8 on Kali Linux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Install OpenJDK 8 on Kali Linux"
-            }
-          },
-          {
-            "id": "4d274994064fa88a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spark Messenger.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Spark Messenger"
-            }
-          },
-          {
             "id": "662a6556359a0afc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PRIVILEGE ESCALATION/Admin shell and Third Flag.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Admin shell and Third Flag"
+            }
+          },
+          {
+            "id": "e283a068f3cf8c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -97,24 +67,9 @@
               "icon": "lucide-file",
               "title": "Getting a shell and flag 2"
             }
-          },
-          {
-            "id": "e283a068f3cf8c28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EXPLOITATION/Enumeration.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Enumeration"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       },
       {
         "id": "ae5f4984e1054cc2",
@@ -252,13 +207,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EXPLOITATION/Enumeration.md",
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Enumeration"
+              "title": "Outline of Index"
             }
           },
           {
@@ -302,30 +257,32 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "e283a068f3cf8c28",
+  "active": "d6383bc8cd6f4007",
   "lastOpenFiles": [
-    "images/Enumeration-20250501102940688.webp",
+    "Welcome.md",
+    "Index.md",
+    "PRIVILEGE ESCALATION/Admin shell and Third Flag.md",
     "EXPLOITATION/Enumeration.md",
     "EXPLOITATION/Getting a shell and flag 2.md",
+    "EXPLOITATION/Cracking the hash.md",
+    "ENUMERATION/Spark Messenger.md",
+    "ENUMERATION/SMB enumeration and Flag 1.md",
+    "ENUMERATION/Enumeration.md",
+    "images/Admin shell and Third Flag-20250502112125174.webp",
+    "PRIVILEGE ESCALATION",
+    "images/Enumeration-20250502111301457.webp",
+    "images/Enumeration-20250501102940688.webp",
     "images/Enumeration-20250501111545260.webp",
     "images/Enumeration-20250501111220432.webp",
     "images/Enumeration-20250501110149062.webp",
     "images/Enumeration-20250501104418383.webp",
     "images/Enumeration-20250501103845862.webp",
     "images/Enumeration-20250501103711570.webp",
-    "EXPLOITATION/Cracking the hash.md",
     "ENUMERATION",
     "EXPLOITATION/Exploitation.md",
-    "ENUMERATION/SMB enumeration and First Flag.md",
     "EXPLOITATION",
     "images/Getting a shell-20250430120000134.webp",
-    "images/Getting a shell-20250430115615528.webp",
-    "images/Cracking the hash-20250430115128105.webp",
-    "ENUMERATION/Spark Messenger.md",
-    "ENUMERATION/Enumeration.md",
     "ENUMERATION/Install OpenJDK 8 on Kali Linux.md",
-    "Index.md",
-    "Welcome.md",
     "images",
     "Ra/README.md",
     "Ra"

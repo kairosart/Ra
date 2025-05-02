@@ -51,8 +51,11 @@ cat 'Flag 1.txt'
 ```
 
 
->[!Success]
-THM{466d52dc75a277d6c3f6c6fcbc716d6b62420f48}   
+
+> [!Success] Flag 1
+>THM{466d52dc75a277d6c3f6c6fcbc716d6b62420f48}   
+
+
 
 
 **Next step:** [[Spark Messenger]]

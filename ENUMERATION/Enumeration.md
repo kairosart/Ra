@@ -164,5 +164,5 @@ Change the password with `lilyle:Sparky` credentials.
 ![[Enumeration-20250423104758006.webp]]
 
 
-**Next step:** [[SMB enumeration and First Flag]]
+**Next step:** [[SMB enumeration and Flag 1]]
 
