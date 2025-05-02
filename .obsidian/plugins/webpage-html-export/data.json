@@ -43,14 +43,13 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/emi/Documents/obsidian/Bandit/docs",
+  "exportPath": "/home/emi/Documents/obsidian/Ra/docs",
   "filesToExport": [
     [
-      "ENTRY HOST",
-      "images",
-      "WINDOWS MACHINE",
-      "index.md",
-      "Registration.md"
+      "ENUMERATION",
+      "EXPLOITATION",
+      "PRIVILEGE ESCALATION",
+      "Index.md"
     ]
   ]
 }
